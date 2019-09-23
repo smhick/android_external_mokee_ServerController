@@ -271,6 +271,14 @@
     "display": "6.28 inch, 2280 x 1080 pixel(402ppi)",
     "cpuarch": "arm64"
   },
+  "ether": {
+    "cpu": "Qualcomm Snapdragon 808 Hexa-Core 2.0 GHz",
+    "ram": "3GB",
+    "rom": "32GB",
+    "battery": "2680 mAh",
+    "display": "5.2 inch",
+    "cpuarch": "arm64"
+  },
   "f460": {
     "cpu": "Qualcomm® Snapdragon™ APQ8084",
     "ram": "3GB",
